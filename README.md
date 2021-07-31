@@ -7,7 +7,7 @@ I am an aspiring electrical engineer looking to make a change in the world throu
 💬 Languages I'm Familiar With:
 * 🐍 Python
 * 👾 C++
-* 🖥 HTML/CSS (soon...)
+* 🖥 HTML/CSS 
 
 📫 How to reach me: https://www.linkedin.com/in/lailah-nabegu-840b931ab/
 
