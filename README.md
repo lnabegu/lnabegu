@@ -8,6 +8,7 @@ I am an aspiring electrical engineer looking to make a change in the world throu
 * 🐍 Python
 * 👾 C++
 * 🖥 HTML/CSS 
+*  Swift
 
 📫 How to reach me: https://www.linkedin.com/in/lailah-nabegu-840b931ab/
 
